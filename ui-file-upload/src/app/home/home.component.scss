@@ -1,0 +1,11 @@
+.btn-data{
+  width: 350px;
+  margin: auto;
+  background-color: #beb8cb;
+  height: 150px;
+  color: #444;
+  &:hover {
+    background-color: #beb8cb;
+    color: #fff;
+  }
+}
